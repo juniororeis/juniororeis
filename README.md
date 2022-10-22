@@ -19,8 +19,7 @@
   <img align="center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>    
  </div><br>
  
- ### Estou seguindo a trilha para me tornar um desenvolvedor Fullstack, no momento estou no início dos estudos dando ênfase na parte de front-End e pretendo me aperfeiçoar ao máximo para dar seguimento ao back-end, Eu estudo por conta através de cursos, livros e treinamentos como o que estou agora (Santander Bootcamp Fullstack Developer) administrado pela Digital Innovation One.
-Busco oportunidade de trabalho e aprendizado na área desenvolvimento Web.
+ ###('hello World')
     
     
     
